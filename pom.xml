@@ -42,12 +42,12 @@
   
 <distributionManagement>
     <repository>
-        <id>devops</id>
+        <id>jenkins-upload</id>
         <name>release softx</name>
         <url>http://212.2.247.218:8081/repository/jenkins-upload/</url>
     </repository>
     <snapshotRepository>
-        <id>devops</id>
+        <id>jenkins-upload</id>
         <name>snapshot softx</name>
         <url>http://212.2.247.218:8081/repository/jenkins-upload/</url>
     </snapshotRepository>
